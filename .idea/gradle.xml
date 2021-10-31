@@ -13,6 +13,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/p051firstex" />
             <option value="$PROJECT_DIR$/app/p052secondex" />
+            <option value="$PROJECT_DIR$/app/p061basketboll" />
+            <option value="$PROJECT_DIR$/app/p062constraintlayout" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
