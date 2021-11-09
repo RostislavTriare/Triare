@@ -54,8 +54,8 @@
         android:layout_width="0dp"
         android:layout_height="200dp"
 
-
-        android:background="#e9e9e9"
+        android:scaleType="centerInside"
+        android:background="#4E4A4A"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:src="@drawable/android" />

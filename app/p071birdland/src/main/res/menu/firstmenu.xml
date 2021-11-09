@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Меха" android:id="@+id/Mexa">
+
+        <menu>
+            <item android:title="Код Гиас" android:id="@+id/Mexa1">
+
+            </item>
+            <item android:title="Евангилион" android:id="@+id/Mexa2">
+
+            </item>
+            <item android:title="Винець вини" android:id="@+id/Mexa3">
+
+            </item>
+        </menu>
+    </item>
+    <item android:title="Фентези" android:id="@+id/Fantazy">
+
+        <menu>
+            <item android:title="Фейри-Тейл" android:id="@+id/Fantazy1">
+
+            </item>
+            <item android:title="Покемон" android:id="@+id/Fantazy2">
+
+            </item>
+            <item android:title="Кафе из другого мира" android:id="@+id/Fantazy3">
+
+            </item>
+        </menu>
+    </item>
+    <item android:title="Апокалиптика" android:id="@+id/Appocal">
+
+        <menu>
+            <item android:title="Школа мерцов" android:id="@+id/Appocal1">
+
+            </item>
+            <item android:title="Атака титанов" android:id="@+id/Appocal2">
+
+            </item>
+            <item android:title="Пожиратель богов" android:id="@+id/Appocal3">
+
+            </item>
+        </menu>
+    </item>
+</menu>
