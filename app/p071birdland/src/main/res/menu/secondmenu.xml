@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Horor" android:id="@+id/Horor">
+
+        <menu>
+            <item android:title="Астрал" android:id="@+id/Horor1">
+
+            </item>
+            <item android:title="Астрал 2" android:id="@+id/Horor2">
+
+            </item>
+            <item android:title="Астрал 3" android:id="@+id/Horor3">
+
+            </item>
+        </menu>
+    </item>
+    <item android:title="Комедии" android:id="@+id/Comedy">
+
+        <menu>
+            <item android:title="Амереканський пирог" android:id="@+id/Comedy1">
+
+            </item>
+            <item android:title="Пакмен" android:id="@+id/Comedy2">
+
+            </item>
+            <item android:title="Дедпул" android:id="@+id/Comedy3">
+
+            </item>
+        </menu>
+    </item>
+    <item android:title="Фантастика" android:id="@+id/App">
+
+        <menu>
+            <item android:title="Веном" android:id="@+id/App1">
+
+            </item>
+            <item android:title="Человек паук" android:id="@+id/App2">
+
+            </item>
+            <item android:title="Железний человек" android:id="@+id/App3">
+
+            </item>
+        </menu>
+    </item>
+</menu>
